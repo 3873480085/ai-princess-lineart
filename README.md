@@ -18,7 +18,7 @@
 ## 📸 风格示例 (Showcase)
 
 ### 1. 日式动漫与萌系
-针对日系审美优化的线条，圆润流畅，非常适合赛璐璐风格上色练习。
+针对日系审美优化的线条，圆润流畅，非常适合赛璐璐风格上色练习
 | 日式公主线稿 | Q 版萌系线稿 |
 | :--- | :--- |
 | ![日式动漫](https://img.sipingseo.com/file/princess-lineart-generator/kX1VCpyN.webp) | ![Q版萌系](https://img.sipingseo.com/file/princess-lineart-generator/9V4yDbIe.webp) |
