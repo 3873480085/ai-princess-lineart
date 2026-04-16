@@ -5,7 +5,7 @@
 [![Category](https://img.shields.io/badge/Category-Illustration%20Design-orange)](#)
 [![License](https://img.shields.io/badge/License-Free-green)](#)
 
-[SPAI 线稿助理 - AI 公主线稿](https://www.sipingseo.com/zh/line-art-generator/princess-lineart-generator) 是一款领先的免费在线 AI 绘图工具。它支持通过纯文字描述或上传参考图，智能生成涵盖日式动漫、欧式宫廷、Q版萌系、古风汉服等多种风格的公主线稿。无论是插画师寻找构思、绘画爱好者练习上色，还是为儿童制作涂色本，都能在 30 秒内获得专业级的作品
+[SPAI 线稿助理 - AI 公主线稿](https://www.sipingseo.com/zh/line-art-generator/princess-lineart-generator) 是一款领先的免费在线 AI 绘图工具。它支持通过纯文字描述或上传参考图，智能生成涵盖日式动漫、欧式宫廷、Q版萌系、古风汉服等多种风格的公主线稿。无论是插画师寻找构思、绘画爱好者练习上色，还是为儿童制作涂色本，都能在 30 秒内获得专业级的作品  。
 
 ## ✨ 核心亮点
 
