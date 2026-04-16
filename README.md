@@ -30,7 +30,7 @@
 | ![欧式宫廷](https://img.sipingseo.com/file/princess-lineart-generator/aLeaEOHd.webp) | ![古风汉服](https://img.sipingseo.com/file/princess-lineart-generator/4uK592WC.webp) |
 
 ### 3. 梦幻魔法与主题公主
-支持冰雪、魔法、花仙子等特定主题的创意生成。
+支持冰雪、魔法、花仙子等特定主题的创意生成
 | 案例 1 (魔法公主) | 案例 2 (花仙子) |
 | :--- | :--- |
 | ![魔法公主](https://img.sipingseo.com/file/princess-lineart-generator/Ptw8dVlG.webp) | ![花仙子公主](https://img.sipingseo.com/file/princess-lineart-generator/6DmE1tn2.webp) |
