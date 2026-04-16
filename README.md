@@ -24,7 +24,7 @@
 | ![日式动漫](https://img.sipingseo.com/file/princess-lineart-generator/kX1VCpyN.webp) | ![Q版萌系](https://img.sipingseo.com/file/princess-lineart-generator/9V4yDbIe.webp) |
 
 ### 2. 欧式宫廷与古典汉服
-展现华丽的礼服结构与东方美学的线条韵律
+展现华丽的礼服结构与东方美学的线条韵律 。
 | 欧式宫廷风格 | 古风汉服风格 |
 | :--- | :--- |
 | ![欧式宫廷](https://img.sipingseo.com/file/princess-lineart-generator/aLeaEOHd.webp) | ![古风汉服](https://img.sipingseo.com/file/princess-lineart-generator/4uK592WC.webp) |
